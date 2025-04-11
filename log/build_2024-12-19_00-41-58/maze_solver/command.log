@@ -1,0 +1,4 @@
+Invoking command in '/home/andrewt/ROS2_WS/build/maze_solver': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/andrewt/ROS2_WS/build/maze_solver -- -j20 -l20
+Invoked command in '/home/andrewt/ROS2_WS/build/maze_solver' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/andrewt/ROS2_WS/build/maze_solver -- -j20 -l20
+Invoking command in '/home/andrewt/ROS2_WS/build/maze_solver': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/andrewt/ROS2_WS/build/maze_solver
+Invoked command in '/home/andrewt/ROS2_WS/build/maze_solver' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/andrewt/ROS2_WS/build/maze_solver

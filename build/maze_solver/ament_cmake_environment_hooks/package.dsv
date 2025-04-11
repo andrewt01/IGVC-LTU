@@ -1,0 +1,4 @@
+source;share/maze_solver/local_setup.bash
+source;share/maze_solver/local_setup.dsv
+source;share/maze_solver/local_setup.sh
+source;share/maze_solver/local_setup.zsh

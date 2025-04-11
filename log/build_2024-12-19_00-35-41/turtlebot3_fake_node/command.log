@@ -1,0 +1,6 @@
+Invoking command in '/home/andrewt/ROS2_WS/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/andrewt/ROS2_WS/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/andrewt/ROS2_WS/install/turtlebot3_fake_node
+Invoked command in '/home/andrewt/ROS2_WS/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/andrewt/ROS2_WS/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/andrewt/ROS2_WS/install/turtlebot3_fake_node
+Invoking command in '/home/andrewt/ROS2_WS/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/andrewt/ROS2_WS/build/turtlebot3_fake_node -- -j20 -l20
+Invoked command in '/home/andrewt/ROS2_WS/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/andrewt/ROS2_WS/build/turtlebot3_fake_node -- -j20 -l20
+Invoking command in '/home/andrewt/ROS2_WS/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/andrewt/ROS2_WS/build/turtlebot3_fake_node
+Invoked command in '/home/andrewt/ROS2_WS/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/andrewt/ROS2_WS/build/turtlebot3_fake_node

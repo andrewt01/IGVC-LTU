@@ -1,0 +1,33 @@
+[0.399s] Invoking command in '/home/andrewt/ROS2_WS/src/lane_follower': PYTHONPATH=/home/andrewt/ROS2_WS/build/lane_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_follower build --build-base /home/andrewt/ROS2_WS/build/lane_follower/build install --record /home/andrewt/ROS2_WS/build/lane_follower/install.log --single-version-externally-managed install_data
+[0.543s] running egg_info
+[0.543s] creating ../../build/lane_follower/lane_follower.egg-info
+[0.543s] writing ../../build/lane_follower/lane_follower.egg-info/PKG-INFO
+[0.543s] writing dependency_links to ../../build/lane_follower/lane_follower.egg-info/dependency_links.txt
+[0.543s] writing entry points to ../../build/lane_follower/lane_follower.egg-info/entry_points.txt
+[0.543s] writing requirements to ../../build/lane_follower/lane_follower.egg-info/requires.txt
+[0.543s] writing top-level names to ../../build/lane_follower/lane_follower.egg-info/top_level.txt
+[0.543s] writing manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+[0.544s] reading manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+[0.545s] writing manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+[0.545s] running build
+[0.545s] running build_py
+[0.545s] creating /home/andrewt/ROS2_WS/build/lane_follower/build
+[0.545s] creating /home/andrewt/ROS2_WS/build/lane_follower/build/lib
+[0.545s] creating /home/andrewt/ROS2_WS/build/lane_follower/build/lib/lane_follower
+[0.545s] copying lane_follower/__init__.py -> /home/andrewt/ROS2_WS/build/lane_follower/build/lib/lane_follower
+[0.545s] running install
+[0.546s] running install_lib
+[0.546s] creating /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower
+[0.546s] copying /home/andrewt/ROS2_WS/build/lane_follower/build/lib/lane_follower/__init__.py -> /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower
+[0.547s] byte-compiling /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower/__init__.py to __init__.cpython-310.pyc
+[0.547s] running install_data
+[0.547s] creating /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index
+[0.547s] creating /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index/resource_index
+[0.547s] creating /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index/resource_index/packages
+[0.547s] copying resource/lane_follower -> /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index/resource_index/packages
+[0.547s] copying package.xml -> /home/andrewt/ROS2_WS/install/lane_follower/share/lane_follower
+[0.547s] running install_egg_info
+[0.548s] Copying ../../build/lane_follower/lane_follower.egg-info to /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower-0.0.0-py3.10.egg-info
+[0.549s] running install_scripts
+[0.561s] writing list of installed files to '/home/andrewt/ROS2_WS/build/lane_follower/install.log'
+[0.578s] Invoked command in '/home/andrewt/ROS2_WS/src/lane_follower' returned '0': PYTHONPATH=/home/andrewt/ROS2_WS/build/lane_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_follower build --build-base /home/andrewt/ROS2_WS/build/lane_follower/build install --record /home/andrewt/ROS2_WS/build/lane_follower/install.log --single-version-externally-managed install_data

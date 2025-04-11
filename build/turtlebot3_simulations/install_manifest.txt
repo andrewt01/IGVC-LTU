@@ -1,0 +1,15 @@
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+/home/andrewt/ROS2_WS/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml

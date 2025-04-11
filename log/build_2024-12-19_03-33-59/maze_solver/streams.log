@@ -1,0 +1,20 @@
+[0.009s] Invoking command in '/home/andrewt/ROS2_WS/build/maze_solver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/andrewt/ROS2_WS/build/maze_solver -- -j20 -l20
+[0.033s] Invoked command in '/home/andrewt/ROS2_WS/build/maze_solver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/andrewt/ROS2_WS/build/maze_solver -- -j20 -l20
+[0.039s] Invoking command in '/home/andrewt/ROS2_WS/build/maze_solver': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/andrewt/ROS2_WS/build/maze_solver
+[0.044s] -- Install configuration: ""
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/ament_index/resource_index/package_run_dependencies/maze_solver
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/ament_index/resource_index/parent_prefix_path/maze_solver
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/environment/ament_prefix_path.sh
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/environment/ament_prefix_path.dsv
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/environment/path.sh
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/environment/path.dsv
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/local_setup.bash
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/local_setup.sh
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/local_setup.zsh
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/local_setup.dsv
+[0.044s] -- Installing: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/package.dsv
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/ament_index/resource_index/packages/maze_solver
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/cmake/maze_solverConfig.cmake
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/cmake/maze_solverConfig-version.cmake
+[0.044s] -- Up-to-date: /home/andrewt/ROS2_WS/install/maze_solver/share/maze_solver/package.xml
+[0.045s] Invoked command in '/home/andrewt/ROS2_WS/build/maze_solver' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/andrewt/ROS2_WS/build/maze_solver

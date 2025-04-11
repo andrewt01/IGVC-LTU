@@ -1,0 +1,3 @@
+[console_scripts]
+lane_following_node = lane_follower.lane_following_node:main
+

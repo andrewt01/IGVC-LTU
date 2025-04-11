@@ -1,0 +1,19 @@
+[0.352s] Invoking command in '/home/andrewt/ROS2_WS/src/lane_following_py': PYTHONPATH=/home/andrewt/ROS2_WS/build/lane_following_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andrewt/ROS2_WS/install/lane_following_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_following_py build --build-base /home/andrewt/ROS2_WS/build/lane_following_py/build install --record /home/andrewt/ROS2_WS/build/lane_following_py/install.log --single-version-externally-managed install_data
+[0.477s] running egg_info
+[0.477s] creating ../../build/lane_following_py/lane_following_py.egg-info
+[0.477s] writing ../../build/lane_following_py/lane_following_py.egg-info/PKG-INFO
+[0.477s] writing dependency_links to ../../build/lane_following_py/lane_following_py.egg-info/dependency_links.txt
+[0.477s] writing entry points to ../../build/lane_following_py/lane_following_py.egg-info/entry_points.txt
+[0.477s] writing requirements to ../../build/lane_following_py/lane_following_py.egg-info/requires.txt
+[0.478s] writing top-level names to ../../build/lane_following_py/lane_following_py.egg-info/top_level.txt
+[0.478s] writing manifest file '../../build/lane_following_py/lane_following_py.egg-info/SOURCES.txt'
+[0.478s] reading manifest file '../../build/lane_following_py/lane_following_py.egg-info/SOURCES.txt'
+[0.478s] writing manifest file '../../build/lane_following_py/lane_following_py.egg-info/SOURCES.txt'
+[0.478s] running build
+[0.478s] running install
+[0.478s] running install_data
+[0.478s] creating /home/andrewt/ROS2_WS/install/lane_following_py/share/ament_index
+[0.478s] creating /home/andrewt/ROS2_WS/install/lane_following_py/share/ament_index/resource_index
+[0.479s] creating /home/andrewt/ROS2_WS/install/lane_following_py/share/ament_index/resource_index/packages
+[0.479s] error: can't copy 'resource/lane_following_py': doesn't exist or not a regular file
+[0.490s] Invoked command in '/home/andrewt/ROS2_WS/src/lane_following_py' returned '1': PYTHONPATH=/home/andrewt/ROS2_WS/build/lane_following_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andrewt/ROS2_WS/install/lane_following_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_following_py build --build-base /home/andrewt/ROS2_WS/build/lane_following_py/build install --record /home/andrewt/ROS2_WS/build/lane_following_py/install.log --single-version-externally-managed install_data

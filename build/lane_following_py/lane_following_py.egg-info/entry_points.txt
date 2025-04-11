@@ -1,0 +1,3 @@
+[console_scripts]
+follower_node = lane_following_py.followr_node:main
+

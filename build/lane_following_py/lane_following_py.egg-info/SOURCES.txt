@@ -1,0 +1,10 @@
+package.xml
+setup.cfg
+setup.py
+../../build/lane_following_py/lane_following_py.egg-info/PKG-INFO
+../../build/lane_following_py/lane_following_py.egg-info/SOURCES.txt
+../../build/lane_following_py/lane_following_py.egg-info/dependency_links.txt
+../../build/lane_following_py/lane_following_py.egg-info/entry_points.txt
+../../build/lane_following_py/lane_following_py.egg-info/requires.txt
+../../build/lane_following_py/lane_following_py.egg-info/top_level.txt
+../../build/lane_following_py/lane_following_py.egg-info/zip-safe

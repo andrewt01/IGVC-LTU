@@ -1,0 +1,21 @@
+[0.385s] Invoking command in '/home/andrewt/ROS2_WS/src/lane_follower': PYTHONPATH=/home/andrewt/ROS2_WS/build/lane_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_follower build --build-base /home/andrewt/ROS2_WS/build/lane_follower/build install --record /home/andrewt/ROS2_WS/build/lane_follower/install.log --single-version-externally-managed install_data
+[0.521s] running egg_info
+[0.521s] writing ../../build/lane_follower/lane_follower.egg-info/PKG-INFO
+[0.521s] writing dependency_links to ../../build/lane_follower/lane_follower.egg-info/dependency_links.txt
+[0.521s] writing entry points to ../../build/lane_follower/lane_follower.egg-info/entry_points.txt
+[0.521s] writing requirements to ../../build/lane_follower/lane_follower.egg-info/requires.txt
+[0.521s] writing top-level names to ../../build/lane_follower/lane_follower.egg-info/top_level.txt
+[0.522s] reading manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+[0.523s] writing manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+[0.523s] running build
+[0.523s] running build_py
+[0.523s] running install
+[0.523s] running install_lib
+[0.524s] running install_data
+[0.524s] running install_egg_info
+[0.525s] removing '/home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower-0.0.0-py3.10.egg-info' (and everything under it)
+[0.525s] Copying ../../build/lane_follower/lane_follower.egg-info to /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower-0.0.0-py3.10.egg-info
+[0.526s] running install_scripts
+[0.541s] Installing lane_following_node script to /home/andrewt/ROS2_WS/install/lane_follower/lib/lane_follower
+[0.542s] writing list of installed files to '/home/andrewt/ROS2_WS/build/lane_follower/install.log'
+[0.558s] Invoked command in '/home/andrewt/ROS2_WS/src/lane_follower' returned '0': PYTHONPATH=/home/andrewt/ROS2_WS/build/lane_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lane_follower build --build-base /home/andrewt/ROS2_WS/build/lane_follower/build install --record /home/andrewt/ROS2_WS/build/lane_follower/install.log --single-version-externally-managed install_data

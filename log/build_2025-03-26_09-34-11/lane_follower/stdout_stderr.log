@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/lane_follower/lane_follower.egg-info
+writing ../../build/lane_follower/lane_follower.egg-info/PKG-INFO
+writing dependency_links to ../../build/lane_follower/lane_follower.egg-info/dependency_links.txt
+writing entry points to ../../build/lane_follower/lane_follower.egg-info/entry_points.txt
+writing requirements to ../../build/lane_follower/lane_follower.egg-info/requires.txt
+writing top-level names to ../../build/lane_follower/lane_follower.egg-info/top_level.txt
+writing manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+reading manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+writing manifest file '../../build/lane_follower/lane_follower.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/andrewt/ROS2_WS/build/lane_follower/build
+creating /home/andrewt/ROS2_WS/build/lane_follower/build/lib
+creating /home/andrewt/ROS2_WS/build/lane_follower/build/lib/lane_follower
+copying lane_follower/__init__.py -> /home/andrewt/ROS2_WS/build/lane_follower/build/lib/lane_follower
+running install
+running install_lib
+creating /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower
+copying /home/andrewt/ROS2_WS/build/lane_follower/build/lib/lane_follower/__init__.py -> /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower
+byte-compiling /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index
+creating /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index/resource_index
+creating /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index/resource_index/packages
+copying resource/lane_follower -> /home/andrewt/ROS2_WS/install/lane_follower/share/ament_index/resource_index/packages
+copying package.xml -> /home/andrewt/ROS2_WS/install/lane_follower/share/lane_follower
+running install_egg_info
+Copying ../../build/lane_follower/lane_follower.egg-info to /home/andrewt/ROS2_WS/install/lane_follower/lib/python3.10/site-packages/lane_follower-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/andrewt/ROS2_WS/build/lane_follower/install.log'
